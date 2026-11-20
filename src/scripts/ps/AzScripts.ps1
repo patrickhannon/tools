@@ -1,0 +1,1 @@
+az cognitiveservices account list --resource-group rg-patrick-ai-lab-centralus --output table
